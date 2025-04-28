@@ -19,4 +19,4 @@ A simple and responsive stopwatch application to track elapsed time.
 
 1. Clone this repository:
    ```bash
-git clone https://github.com/writabratadas/Project-Stoptwatch.git
+   git clone https://github.com/writabratadas/Project-Stoptwatch.git
